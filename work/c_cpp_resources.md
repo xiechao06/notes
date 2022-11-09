@@ -5,3 +5,5 @@
 * [C++ compiler support - cppreference.com](https://en.cppreference.com/w/cpp/compiler_support)
 
 * [ClangFormat — Clang 16.0.0git documentation](https://clang.llvm.org/docs/ClangFormat.html)
+
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
