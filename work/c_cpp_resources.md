@@ -10,6 +10,4 @@
 
 * [CppCoreGuidelines/CppCoreGuidelines.md at master · isocpp/CppCoreGuidelines · GitHub](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-* [c++ do's and don'ts
-* ](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++-dos-and-donts.md)
-
+* [c++ do's and don'ts](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++-dos-and-donts.md)
