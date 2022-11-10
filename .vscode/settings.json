@@ -27,4 +27,8 @@
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
   "gitdoc.enabled": true,
+  "cSpell.words": [
+    "cppreference",
+    "isocpp"
+  ],
 }
