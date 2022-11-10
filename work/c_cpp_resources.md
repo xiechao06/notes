@@ -7,3 +7,5 @@
 * [ClangFormat — Clang 16.0.0git documentation](https://clang.llvm.org/docs/ClangFormat.html)
 
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+* [CppCoreGuidelines/CppCoreGuidelines.md at master · isocpp/CppCoreGuidelines · GitHub](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
