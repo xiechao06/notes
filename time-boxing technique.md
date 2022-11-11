@@ -10,5 +10,6 @@ digest from [Timeboxing: Elon Musk's Time Management Method - YouTube](https://w
 Facts:
 
 It depends on how one treat himself, eg. Time Boxing doesn't mean squeeze all your
-time. Instead, it forces you **LIMIT** the work time, reduce **UNSTRUCTRUED** free time.
+time. Instead, it forces you **limit** the work time, reduce **unstructured** free time.
+
 
