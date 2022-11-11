@@ -22,5 +22,7 @@ time. Instead, it forces you **limit** the work time, reduce **unstructured** fr
 
 * Track your time.
 * Split task.
+* Compare your original plan and revised plan.
+* Don't fear to fail your plan.
 * Designate certain blocks of time called reactionary time.
 * Kaizen(改善).
