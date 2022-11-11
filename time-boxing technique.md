@@ -16,9 +16,11 @@ time. Instead, it forces you **limit** the work time, reduce **unstructured** fr
 
 * Removes choice.
 * Help you to identify your focus.
+* Build discipline.
 
 ## How
 
 * Track your time.
 * Split task.
 * Designate certain blocks of time called reactionary time.
+* Kaizen(改善).
