@@ -12,4 +12,9 @@ Facts:
 It depends on how one treat himself, eg. Time Boxing doesn't mean squeeze all your
 time. Instead, it forces you **limit** the work time, reduce **unstructured** free time.
 
+## Why
+
+* Removes choice.
+* Help you to identify your focus.
+
 
